@@ -9,7 +9,7 @@
 Сборщик модулей - *webpack*, настраивался вручную.
 Для перевода использовался фраемворк *i18next*.
 
-Приложение использует *API* [themoviedb.org](themoviedb.org).
+Приложение использует *API* [themoviedb.org](https://themoviedb.org).
 
 Стек технологий:
 *React*, *redux*, *redux-thunk*, *i18next*, *speak-tts*, *scss*.
